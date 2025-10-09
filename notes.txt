@@ -1,0 +1,4 @@
+commit- saves a version of a file 
+initialize-tracking a new file to Git
+*git init
+*gitignore-
