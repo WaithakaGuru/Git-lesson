@@ -1,0 +1,2 @@
+this is my first git lessson
+to create a merge error 
