@@ -1,1 +1,0 @@
-the following is just a mock text for learning and practice purposes with Git and GitHub
